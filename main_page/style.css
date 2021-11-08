@@ -6,8 +6,7 @@
 nav {
   position: absolute;
   width: 100vw;
-  height: 90px;
-
+  min-height: 109px;
   font-family: 'Open Sans', sans-serif;
   color: black;
 
@@ -21,7 +20,6 @@ nav {
 }
 
 nav ul {
-  height: 70px;
   justify-content: space-evenly;
 }
 
