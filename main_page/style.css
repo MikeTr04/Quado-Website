@@ -21,7 +21,7 @@
   height: 177.01px;
   left: 2vh;
   top: 80vh;
-  background: rgba(255, 255, 255, 0.5);
+  background: rgba(248, 248, 248, 0.5);
   border: 1px solid #000000;
   box-sizing: border-box;
   backdrop-filter: blur(20px);
@@ -36,6 +36,7 @@
 .content{
   height: 600px;
 }
+
 .technical-stack {
   padding: 5vh 10vw;
   background: #E5E5E5;
